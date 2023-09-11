@@ -28,6 +28,8 @@ This is does not use any Azure components - the API is from platform.openai.com,
 
 ## Video Demo 
 
+![feedback_chatbot]
 
 https://github.com/oriconunicorn/feedback_bot/assets/89826444/340db9dd-aeb4-4257-9f24-2c9569d989ec
+
 
